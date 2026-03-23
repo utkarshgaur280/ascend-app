@@ -81,7 +81,7 @@ List<Reward> buildRewards() => [
   Reward(id:'gaming',  label:'Gaming Session',    emoji:'🎮', cost:150, timerMins:60),
   Reward(id:'netflix', label:'Netflix 2hr',       emoji:'🍿', cost:200, timerMins:120),
   Reward(id:'junk',    label:'Junk Food Meal',    emoji:'🍕', cost:180, weeklyLimit:3),
-  Reward(id:'adult',   label:'Adult Release',     emoji:'🔞', cost:250, weeklyLimit:2),
+  Reward(id:'adult',   label:'Music Relief',     emoji:'🔞', cost:250, weeklyLimit:2),
   Reward(id:'nap',     label:'Power Nap',         emoji:'😴', cost:60,  timerMins:20),
   Reward(id:'cheat',   label:'Cheat Meal',        emoji:'🍔', cost:160, weeklyLimit:3),
   Reward(id:'party',   label:'Night Out',         emoji:'🎉', cost:300),
